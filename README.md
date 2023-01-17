@@ -21,7 +21,4 @@
 
 🐱 About Me 🐱
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmr03016@gmail.com)
-
-
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bmr03016@gmail.com)
