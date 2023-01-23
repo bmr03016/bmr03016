@@ -18,11 +18,12 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmr03016&show_icons=true&theme=radical)
-
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmr03016)](https://solved.ac/bmr03016)
+     
 🐱 About Me 🐱
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:bmr03016@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Gmail&logoColor=white)](https://velog.io/@bmr03016)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmr03016)](https://solved.ac/bmr03016)
