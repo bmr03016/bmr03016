@@ -38,6 +38,6 @@
      
 🌟 I'm on my way to next Tier 🌟
      
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmr03016)](https://solved.ac/bmr03016)   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=bmr03016&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bmr03016)](https://solved.ac/bmr03016)  
 
 
